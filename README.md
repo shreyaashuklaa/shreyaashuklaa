@@ -14,7 +14,7 @@
 
 ## ⭐ About Me
 
-- 🎓 3rd-year B.Tech CSE student at **VIT Bhopal** (CGPA 8.68)
+- 🎓 4th-year B.Tech CSE student at **VIT Bhopal** (CGPA 8.68)
 - 🤖 Passionate about **LLM agents, RAG, and AI-driven products**
 - ⚙️ I like building **end-to-end systems**: model/agent → backend API → dashboard → deployed demo
 - 🚀 Experience with **FastAPI, Node.js, PostgreSQL, React, Docker, LangGraph, LangChain**
