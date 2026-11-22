@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="assets/avatar.png" alt="Shreya's avatar" width="150" height="150"/>
+<img src="assets/avatar_pro.png" alt="Shreya's avatar" width="150" height="150"/>
 
 <br/><br/>
 
